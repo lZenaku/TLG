@@ -4,7 +4,7 @@ import asyncio
 import platform
 
 # Token del bot (obtenlo de BotFather en Telegram)
-TOKEN = "TU_TOKEN_AQUÍ"
+TOKEN = "7898746611:AAESOn08A97Pvh3kRnWp0zbLbN34u3G5-lQ"
 
 # Función para el comando /start
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
