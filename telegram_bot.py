@@ -4,7 +4,7 @@ import asyncio
 import platform
 
 # Token del bot (obtenlo de BotFather en Telegram)
-TOKEN = "TU_TOKEN_AQUÍ"
+TOKEN = "7898746611:AAESOn08A97Pvh3kRnWp0zbLbN34u3G5-lQ"
 
 # ID del usuario de Telegram para redirigir información de pago
 ADMIN_ID = 842996224
